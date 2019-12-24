@@ -41,6 +41,30 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(22).pdf" style="text-decoration:none;">Nutrigenomics and Proteomics in Health and Disease</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(23).pdf" style="text-decoration:none;">Data Mining for Genomics and Proteomics: Analysis of Gene and Protein Expression Data</a></b></li>
+  
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(24).pdf" style="text-decoration:none;">Proteomics and Protein-Protein Interactions: Biology, Chemistry, Bioinformatics, and Drug Design</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(25).pdf" style="text-decoration:none;">Chemical Proteomics: Methods and Protocols</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(26).pdf" style="text-decoration:none;">Agricultural Proteomics, Volume 1: Crops, Horticulture, Farm Animals, Food, Insect and Microorganisms</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(27).pdf" style="text-decoration:none;">Proteomics in Nephrology: Towards Clinical Applications</a></b></li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
  
  </ul>
  
